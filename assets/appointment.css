@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+   
+}
+
+.container{
+    background-color:#c2e6ff ;
+    height: 160vh;
+    
+    
+}
+
+.headerr{
+    background-color: #79bbea;
+    height: 5rem;
+    width: 100%;
+    display: flex;
+}
+
+.headingg{
+    height: 3rem;
+    width: 60%;
+    display: flex;
+
+}
+
+div > h3{
+    margin-left: 40px;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.subheadingg{
+    height: 3rem;
+    display: flex;
+    justify-content: end;
+    width: 37%;
+}
+
+
+.main-conta{
+    margin-top: 30px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: #c2e6ff;
+
+}
+.dr1-conta{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    border: 2px solid white;
+    
+    width: 900px;
+    background-size: cover;
+    border-radius: 30px;
+}
+.logo{
+    background-size: cover;
+    width: 200px;  
+}
+.content1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+ button{
+    width: 150px;
+    font-size: 22px;
+    height:50px ;
+    border-radius: 15px;
+    background-color: #79bbea;
+    color: black;
+    border: none;
+    margin-top: 95px;
+    
+}
+.dr2-conta{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    border: 2px solid white;  
+    width: 900px;
+    background-size: cover;
+    border-radius: 30px;
+    margin-top: 15px;
+}
+
+.button1{
+    height:50px ;
+    border-radius: 15px;
+    background-color: #79bbea;
+    color: black;
+    border: none;
+    margin-top: 95px;
+    margin-left: 25px;
+    
+}
+
+.logo{
+    background-size: cover;
+    width: 200px; 
+} 
+
+.dr3-conta{
+    margin-top: 15px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    border: 2px solid white;
+    width: 900px;
+    background-size: cover;
+    border-radius: 30px;
+}
+.logo{
+    background-size: cover;
+    width: 200px;  
+}
+
+.main-head{
+    font-size: 4rem;
+    margin-bottom: 25px;
+}
+.white{
+    color: white;
+}

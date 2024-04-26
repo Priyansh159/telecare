@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+}
+
+.container{
+    background-color:#c2e6ff ;
+    height: 160vh;
+}
+
+.headerr{
+    background-color: #79bbea;
+    height: 5rem;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    border-bottom: 1px solid skyblue;
+}
+
+.headingg{
+    height: 3rem;
+    width: 60%;
+    display: flex;
+
+}
+
+.white{
+    color: white;
+}
+
+div > h3{
+    margin-left: 40px;
+    font-size: 25px;
+    padding-top: 20px;
+}
+
+.subheadingg{
+    height: 3rem;
+    display: flex;
+    justify-content: end;
+    width: 37%;
+}
+
+
+.medidesc{
+    text-align: center;
+}
+
+.medidesc > h1{
+    font-size: 70px;
+    padding-bottom: 20px;
+    background-color:#c2e6ff ;
+    padding-top: 5rem;
+}
+
+
+.mediciness{
+    height: 120vh;
+    background-color:#c2e6ff ;
+    display: flex;
+    padding-left: 30px;
+    gap: 45px;
+    flex-wrap: wrap;
+}
+
+
+.mediblock > img {
+    margin-top: 30px;
+    width: 8rem;
+}
+
+.mediblock > h2{
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.mediblock > p{
+    margin-top: 10px;
+    font-size: 1.3rem;
+    font-weight: 700;
+
+}
+
+.mediblock{
+    border: 2px solid lightgray;
+    height:55vh;
+    width: 21vw;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 20px !important;
+    text-align: center;
+    align-content: space-between;
+}
+
+.cartbutn{
+    margin-top: 20px;
+    height: 30px;
+    width: 9rem;
+    font-size: 20px;
+    background-color: #79bbea;
+    border-radius: 5px;
+    border: none;
+}
+
+.paraceta{
+    height: 10rem;
+}
+
+.immbost{
+    margin-top: 2.9rem !important;
+}
