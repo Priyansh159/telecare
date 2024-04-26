@@ -2,6 +2,10 @@
   margin: 0;
 }
 
+.smalldevices{
+  display: none;
+}
+
 .container {
   background-color: #c2e6ff;
   height: 100vh;
@@ -210,4 +214,21 @@ margin-left: -36px;
 }
 .logo h2{
   margin-top: -75px;
+}
+
+@media (max-width: 1300px) {
+  .container {
+    display: none;
+}
+.footer1{
+  display: none;
+}
+*{
+  background-color: #c2e6ff;
+}
+.smalldevices{
+  display: block;
+  text-align: center;
+  margin-top: 35%;
+}
 }
