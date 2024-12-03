@@ -5,5 +5,4 @@ It is basically an idea and the design for the competition "Hackfest" which was 
 We are on the Team "Morse Coders" and came as a finalist of the competition.
 
 <h2>Demo</h2> <br>
-Try this Website: 
-[link](https://priyansh159.github.io/telecare/)
+Try this Website: (https://priyansh159.github.io/telecare/)
